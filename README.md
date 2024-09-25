@@ -15,7 +15,7 @@ Just study each topic and check them as done ✅. As for the tasks, complete the
 
 ### HTML
 
-- [ ] Learn the basics
+- [✅] Learn the basics
 - [ ] Writing Semantic Html
 - [ ] Basic SEO
 - [ ] Accessibility
@@ -37,8 +37,8 @@ Just study each topic and check them as done ✅. As for the tasks, complete the
 
 ### How the internet works
 
-- [ ] How browsers work
-- [ ] What is HTTP, how does it work?
+- [✅] How browsers work
+- [✅] What is HTTP, how does it work?
 - [ ] What is JSON and XML
 - [ ] What is DNS, how does it work
 
